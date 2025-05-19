@@ -234,7 +234,7 @@ def process_file(file_path, bunker_file):
             ]
 
 #------------------------------------------------------------------------#
-# ADD HVO BUNKERS TO df FOR THE BDN TAB  
+# ADD BioFuel BUNKERS TO df FOR THE BDN TAB  
 #------------------------------------------------------------------------#
 
             # Ensure the Bunkers column exists
